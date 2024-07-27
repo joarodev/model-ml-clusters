@@ -125,8 +125,8 @@ if modo == "Seleccionar Alojamiento":
 
         st.sidebar.subheader("Proyecto realizado por Joaquín Rodríguez")
         st.sidebar.write("Presentación del proyecto")
-        st.sidebar.write("- GitHub: [joarodev](XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX)")
-        st.sidebar.write("- Documentación: [TheOutlierMan](XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX)")
+        st.sidebar.write("- GitHub: [joarodev](https://github.com/joarodev/model-ml-clusters)")
+        st.sidebar.write("- Google Colab: [ML-cluster-model](https://colab.research.google.com/drive/1OauszM6ZThCg0u0zzWXpmoJQZXq9LDli#scrollTo=G7kyBZDbyjan)")
 
 elif modo == "Ingresar Coordenadas":
     nueva_latitud = st.sidebar.number_input("Latitud", min_value=-36.87000, max_value=-32.35000)
@@ -146,5 +146,5 @@ elif modo == "Ingresar Coordenadas":
 
     st.sidebar.subheader("Proyecto realizado por Joaquín Rodríguez")
     st.sidebar.write("Presentación del proyecto")
-    st.sidebar.write("- GitHub: [joarodev](XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX)")
-    st.sidebar.write("- Documentación: [TheOutlierMan](XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX)")
+    st.sidebar.write("- GitHub: [joarodev](https://github.com/joarodev/model-ml-clusters)")
+    st.sidebar.write("- Google Colab: [ML-cluster-model](https://colab.research.google.com/drive/1OauszM6ZThCg0u0zzWXpmoJQZXq9LDli#scrollTo=G7kyBZDbyjan)")
